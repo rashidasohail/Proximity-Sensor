@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab4_task2</string>
+    <string name="no_proximity">No Proximity Sensor!</string>
+</resources>
